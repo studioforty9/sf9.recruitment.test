@@ -37,7 +37,7 @@ We also consider the technical questions an integral part of the test and an opp
 ### Technical Questions
 
 * How long did you spend on the coding test? What would you have changed or added given more time?
-* List some of your preferred JavaScript frameworks and tell us for which situations you would use or not use each one
+* List some of your preferred JavaScript frameworks and tell us for which situations you would or would not use each one.
 * How would you debug a performance issue in production and have you ever had to do this?
 
 Thank you for your time, we look forward to your application.
