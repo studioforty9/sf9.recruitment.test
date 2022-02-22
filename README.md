@@ -21,7 +21,7 @@ We also consider the technical questions an integral part of the test and an opp
 
 ### Coding Test
 
-* Create a quick view / quick shop module for a Shopify store regardless of the theme used. [Suggested approach](https://shopify.dev/api/section-rendering)
+* Using [Shopify's Section Rendering API](https://shopify.dev/api/section-rendering) create a quick view / quick shop module for a Shopify store regardless of the theme used.
 * The design of the module is up to you, but consider:
 * The module should work on collection pages of up to 24 products as well as in featured product carousels across the store
 * Consider how the module will be meaningful and function for desktop, tablet and mobile (Android and iOS) users
