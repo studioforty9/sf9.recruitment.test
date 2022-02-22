@@ -35,4 +35,5 @@ We also consider the technical questions an integral part of the test and an opp
 * How would you debug a performance issue in production and have you ever had to do this?
 
 Thank you for your time, we look forward to your application.
-The StudioForty9 team
+
+__The StudioForty9 team__
