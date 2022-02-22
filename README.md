@@ -2,7 +2,7 @@
 
 Thank you for investing the time to take our technical test. The test consists of two parts:
 
-1. A coding test
+1. A coding test and clear instructions on how to implement it on a theme, e.g. Dawn, Craft or Sense
 2. A few technical questions
 
 In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. 
@@ -22,15 +22,15 @@ We also consider the technical questions an integral part of the test and an opp
 ### Coding Test
 
 * Create a quick view / quick shop module for a Shopify store regardless of the theme used
+* The design of the module is up to you, but consider:
 * The module should work on collection pages of up to 24 products as well as in featured product carousels across the store
-* Consider how the module will be meaningful and function for desktop, tablet and mobile users
-* The design of the module is up to you
-* The module should expand on the information available in the base product card without replacing the product page. Suggestions:
+* Consider how the module will be meaningful and function for desktop, tablet and mobile (Android and iOS) users
+* The module should expand on the information available without replacing the product page. Suggestions:
     * Availability
     * Sizes/colours
     * Imagery
     * More information or other call to action
-* Feel free to use whatever libraries or frameworks you like, bearing in mind:
+* Feel free to use whatever libraries or frameworks you like
 * Consideration will be given to page load speed and the effect on CWV scores
 * Use semantic, accessible and valid mark-up
 
