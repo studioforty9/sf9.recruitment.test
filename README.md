@@ -24,6 +24,12 @@ We also consider the technical questions an integral part of the test and an opp
 * Create a quick view / quick shop module for a Shopify store regardless of the theme used
 * The module should work on collection pages of up to 24 products as well as in featured product carousels across the store
 * Consider how the module will be meaningful and function for desktop, tablet and mobile users
+* The design of the module is up to you
+* The module should expand on the information available in the base product card without replacing the product page. Suggestions:
+    * Availability
+    * Sizes/colours
+    * Imagery
+    * More information or other call to action
 * Feel free to use whatever libraries or frameworks you like, bearing in mind:
 * Consideration will be given to page load speed and the effect on CWV scores
 * Use semantic, accessible and valid mark-up
