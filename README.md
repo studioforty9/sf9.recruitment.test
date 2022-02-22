@@ -2,7 +2,7 @@
 
 Thank you for investing the time to take our technical test. The test consists of two parts:
 
-1. A coding test and clear instructions on how to implement it on a theme, e.g. Dawn, Craft or Sense
+1. A coding test
 2. A few technical questions
 
 In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. 
@@ -10,7 +10,7 @@ In order to obtain the URL for this folder, please supply your Gmail or Google-b
 
 Please make this a single zip file named `{yourname}-{role-applied-for}.zip` containing:
 
-1. [One folder containing the coding test](#coding-test)
+1. [One folder containing the coding test and clear instructions on how to implement it on a theme, e.g. Dawn, Craft or Sense](#coding-test)
 2. [A single markdown file with the answers to the technical questions](#technical-questions)
 
 ### Task Requirements
