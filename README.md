@@ -11,8 +11,8 @@ In order to obtain the URL for this folder, please supply your Gmail or Google-b
 Please make this a single zip file named `{yourname}-{role-applied-for}.zip` containing:
 
 1. [One folder containing the coding test](#coding-test)
-2. A link to a demo Shopify store with the module installed. Please include admin access to the store.
-3. [A single markdown file with the answers to the technical questions](#technical-questions)
+2. [A single markdown file with the answers to the technical questions](#technical-questions) and
+3. A link to a demo Shopify store with the module installed. Please include admin access to the store.
 
 ### Task Requirements
 
@@ -38,7 +38,7 @@ A ’quick view’ is an ecommerce feature designed to allow the user to see mor
 
 * How long did you spend on the coding test?
 * What would you have changed or added given more time?
-* What is your favourite type of front-end project, language or framework to work on?
+* What is your favourite type of front-end project, language or framework to work on? And why?
 
 Thank you for your time, we look forward to your application.
 
