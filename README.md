@@ -21,13 +21,17 @@ We also consider the technical questions an integral part of the test and an opp
 
 ### Coding Test
 
-* Using [Shopify's Section Rendering API](https://shopify.dev/api/section-rendering) create a quick view / quick shop module for a store regardless of the theme used.
+* Using [Shopify's Section Rendering API](https://shopify.dev/api/section-rendering) create a [quick view / quick shop](#what-is-quick-view) module for a store regardless of the theme used.
 * Use semantic, accessible and valid mark-up using any combination of HTML, CSS, Liquid and JavaScript
 * Feel free to use whatever libraries or frameworks you like. Use of Tailwind CSS is a plus
 * The design of the module is up to you, but consideration will be given to:
     * How the module works on product cards across the store
     * How module functions for users on different devices
     * How page load speed and other CWV metrcis are affected
+
+### What is Quick View
+
+A ’quick view’ is an ecommerce feature designed to allow the user to see more details and images for a product via an overlay window, whilst on a product listings page (PLP). The idea is that the user gets a peek into more content whilst still being on the PLP, so they can quickly close the window and not lose their place browsing. For site designers, it allows you to keep the PLP clean but still provide more details.
 
 ### Technical Questions
 
