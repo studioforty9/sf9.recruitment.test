@@ -23,11 +23,11 @@ We also consider the technical questions an integral part of the test and an opp
 
 * Using [Shopify's Section Rendering API](https://shopify.dev/api/section-rendering) create a quick view / quick shop module for a store regardless of the theme used.
 * Use semantic, accessible and valid mark-up using any combination of HTML, CSS, Liquid and JavaScript
-* The design of the module is up to you, but consider:
-* The module should work on collection pages of up to 24 products as well as in featured product carousels across the store
-* The module should function for users on all devices without replacing the product page
 * Feel free to use whatever libraries or frameworks you like. Use of Tailwind CSS is a plus
-* Consideration will be given to page load speed and the effect on CWV scores
+* The design of the module is up to you, but consideration will be given to:
+    * How the module works on product cards across the store
+    * How module functions for users on different devices
+    * How page load speed and other CWV metrcis are affected
 
 ### Technical Questions
 
