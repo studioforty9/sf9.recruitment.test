@@ -31,7 +31,7 @@ We also consider the technical questions an integral part of the test and an opp
 
 ### What is Quick View
 
-A ’quick view’ is an ecommerce feature designed to allow the user to see more details and images for a product via an overlay window, whilst on a product listings page (PLP). The idea is that the user gets a peek into more content whilst still being on the PLP, so they can quickly close the window and not lose their place browsing. For site designers, it allows you to keep the PLP clean but still provide more details.
+A ’quick view’ is an ecommerce feature designed to allow the user to see more details and images for a product via an overlay, whilst on a product listings page (PLP). The idea is that the user gets a peek into more content whilst still being on the PLP and not lose their place browsing.
 
 ### Technical Questions
 
