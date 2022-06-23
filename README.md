@@ -27,8 +27,8 @@ We also consider the technical questions an integral part of the test and an opp
 * Feel free to use whatever libraries or frameworks you like. Use of Tailwind CSS is a plus
 * The design of the module is up to you, but consideration will be given to:
     * How the module works on product cards across the store
-    * How module functions for users on different devices
-    * How page load speed and other CWV metrcis are affected
+    * How the module functions for users on different devices
+    * How page load speed and other CWV metrics are affected
 
 ### What is Quick View
 
